@@ -90,6 +90,24 @@ En el css alineamos el texto al centro y modificamos la lista para que todos los
 
 #### 3-En la rama desarrollo
 
+En la rama desarrollo añado nuevos componentes
+
+HTML:
+
+![Captura 10](/images/DesarrolloMod1-Index.png)
+
+En primer ligar he añadido un aside en donde he creado una lista.
+
+![Captura 11](/images/DesarrolloMod2-html.png)
+
+Y luego he añadido un main donde he añadido una seccion y un parrafo
+
+CSS:
+
+En la siguiente imagen se ve el estilo que le ha dado al index.
+
+![Captura 12](/images/DesarrolloMod1-Css.png)
+
 ## 3. Colaboración
 
 #### 3.1-Propietario del repositorio
@@ -132,6 +150,13 @@ CSS:
 
 #### 3.3-Pasos del Propietario
 
+En primer lugar reviso el Pull Request:
+
+ · En la pesataña de "Pull request"
+ · Abro el pull request creado por el colaborador
+ · Reviso los cambios
+
+Una vez revisado el pull request lo apruebo ("Review changes" --> "Approve") y luego confirmo el merge.
 
 ## 4.Integración Final
 1. Hago el merge de la rama desarrollo a main

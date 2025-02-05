@@ -119,11 +119,11 @@ En este punto he añadido los colaboradores, pera esto debemos seguir los siguie
 3. Añado el usuario del profesor (isaiasfl)
 4. Añado el usuario de un compañero (aormar)
 
-![Captura 10](/images/Invitaciones.png)
+![Captura 13](/images/Invitaciones.png)
 
 #### 3.2-Pasos del Colaborador
 1. Aceptar la invitacion de colaboración
-![Captura 11](/images/Repositorio_alfonso.png)
+![Captura 14](/images/Repositorio_alfonso.png)
 2. Clonamos el repositorio
 ```Bash
     git clone git@github.com:aormar/proyecto-vite-alfonso.git
@@ -132,21 +132,21 @@ En este punto he añadido los colaboradores, pera esto debemos seguir los siguie
 4. Realizo las siguientes modificaciones:
 
 HTML:
-![Captura 12](/images/ModificacionesIndex_Alfonso.png)
+![Captura 15](/images/ModificacionesIndex_Alfonso.png)
 
 En el html he modificado el header añadiendo un h1 y he añadido un botón y le he dado el estilo del siguiente css 
 
 CSS:
-![Captura 13](/images/Modificacionccs_Alfonso.png)
+![Captura 16](/images/Modificacionccs_Alfonso.png)
 
 6. Subo mi rama al repositorio
 ```Bash
     git push origin Marco
 ```
 7. Creo el Pull Request
-![Captura 14](/images/Pullrequest.png)
-![Captura 15](/images/Mergepullrequest.png)
-![Captura 16](/images/MergesPullRequest.png)
+![Captura 17](/images/Pullrequest.png)
+![Captura 18](/images/Mergepullrequest.png)
+![Captura 19](/images/MergesPullRequest.png)
 
 #### 3.3-Pasos del Propietario
 
@@ -164,6 +164,6 @@ Una vez revisado el pull request lo apruebo ("Review changes" --> "Approve") y l
     #Estando en la rama main
     git merge desarrollo
 ```
-![Captura 16](/images/Merge_desarrollo.png)
+![Captura 20](/images/Merge_desarrollo.png)
 
 
